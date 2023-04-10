@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+html{
+    scroll-behavior:smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://img.freepik.com/vector-gratis/fondo-poligonal-realista_23-2148901867.jpg?w=1380&t=st=1677895865~exp=1677896465~hmac=a1e67f2eafbb06b1d2947302e6a00da2fb175e1f3522c6e098af534016bb3269);   
+    background-size:contain;
+    background-position: center;
+    background-position-y:top;
+}
